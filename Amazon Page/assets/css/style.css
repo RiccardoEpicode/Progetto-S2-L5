@@ -21,8 +21,12 @@
 
 .links {
   background-color: rgb(54, 71, 89);
-  color: white;
   padding: 20px;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
 }
 
 .orizzontale {
